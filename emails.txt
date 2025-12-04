@@ -1,82 +1,120 @@
+1. Account Unbanned Notice
+
 Dear User,
 
 We understand you are still facing issues, but we can confirm that your account is now unbanned on our side.
 
 Please be aware that any future spam posting or similar activity will result in your account being banned again. We urge you to kindly refrain from such actions.
 
-If you are still unable to access your account, please try the troubleshooting steps we shared previously (uninstall and install the app or clear your data).
-
-Thanks,
-Qoneqt Support Team
-
-********************************************************************************************************
-
-Dear User,
-
-Due to heavy app traffic and too many verifications which we received we are facing slight delay from our end for the verification. We are a small startup. We are doing our best to verify everyone. Please stay with us, in a high priority we are verifying all your accounts.
-
-Thanks,
-Qoneqt Support Team
-
-********************************************************************************************************
-
-Dear User,
-
-Ask your referral to send a mail to us with the same email he used while verification and mention your referral link he used while registration. Therefore, we can add the missing referral count and payment to your account.
-
-Thanks,
-Qoneqt Support Team
-
-********************************************************************************************************
-
-Dear User,
-
-Please click the withdraw money button and submit your PAN verification and after PAN verification is completed, you have to enter the bank details.
-
-Thanks,
-Qoneqt Support Team
-
-*********************************************************************************************************
-
-Dear User,
-
-If you're facing issue with app use qoneqt.com in your browser and complete your verification. Thank you
-
-Thanks,
-Qoneqt Support Team
-
-********************************************************************************************************
-
-Dear User,
-
-If you are still unable to access your account, please try the troubleshooting steps (uninstall and install the app or clear your data). If you submitted for PAN verification that's a different verification, so please wait until the team verifies your PAN.
-
-Thanks,
-Qoneqt Support Team
-
-*********************************************************************************************************************
-
-Dear User,
-
-If you are still unable to access your account, please try the troubleshooting steps (uninstall and install the app or clear your data). If you submitted for PAN verification that's a different verification, so please wait until the team verifies your PAN. After PAN verification only you can withdraw the payment. 
+If you are still unable to access your account, please try the troubleshooting steps we shared previously (uninstall and reinstall the app or clear your data).
 
 Thanks,
 Qoneqt Support Team
 
 *************************************************************************************************************************
 
+2. Verification Delay 
+
 Dear User,
 
-PAN requirement is not from our end Banks and Income Tax Department's rule. Therefore, we need your PAN only and  Account holder Name match with PAN and Bank account as per the Prevention of anti money laundering act.
+Due to heavy app traffic and a high volume of verifications, we are facing slight delays from our end. We are a small startup, and we are doing our best to verify everyone as quickly as possible.
+Please stay with us—your account is being verified on high priority.
 
 Thanks,
 Qoneqt Support Team
 
 *************************************************************************************************************************
 
+3. Missing Referral Update Request
+
 Dear User,
 
-As per our withdrawal timeline it will take 7 business days. Please refer to our withdrawal-policy for more details https://qoneqt.com/withdrawal-policy.
+Please ask your referral person to send an email to us using the same email ID they used during verification and mention your referral link used during registration.
+This will help us add the missing referral count and payment to your account.
 
 Thanks,
 Qoneqt Support Team
+
+*************************************************************************************************************************
+
+4. Withdrawal Steps
+
+Dear User,
+
+Please click the "Withdraw Money" button and fill the bank details.
+
+Thanks,
+Qoneqt Support Team
+
+*************************************************************************************************************************
+
+5. App Access Issue 
+
+Dear User,
+
+If you are still unable to access your account, please try the troubleshooting steps (uninstall and reinstall the app or clear your data).
+
+Thanks,
+Qoneqt Support Team
+
+*************************************************************************************************************************
+
+6. PAN Verification needed if withdrawal limit reached
+
+Dear User,
+
+We are not submitting the PAN card for now. However, please note that if your withdrawal limit exceeds ₹20,000, you will be required to submit your PAN card as per government guidelines.
+
+Thanks,
+Qoneqt Support Team
+
+*************************************************************************************************************************
+
+7. Withdrawal Timeline
+
+Dear User,
+
+As per our withdrawal timeline, it will take 7 business days.
+Please refer to our withdrawal policy for more details:
+https://qoneqt.com/withdrawal-policy
+
+Thanks,
+Qoneqt Support Team
+
+*************************************************************************************************************************
+
+8. Referral Option Not Working
+
+Dear User,
+
+We are sorry to hear that the referral option is not working for you. If the app closes when you tap on "Refer a Friend," please try the troubleshooting steps (uninstall and reinstall the app or clear your data).
+Our team is checking this issue, and it will be fixed as soon as possible.
+
+Thanks,
+Qoneqt Support Team
+
+*************************************************************************************************************************
+
+9. Minimum Withdrawal Amount
+
+Dear User,
+
+We would like to inform you that the minimum withdrawal amount is ₹100. Please ensure your withdrawal request meets this requirement.
+
+Thanks,
+Qoneqt Support Team
+
+*************************************************************************************************************************
+
+10. Double Withdrawal Request Not Allowed
+
+Dear User,
+
+Please note that only one withdrawal request can be processed at a time. Once your current withdrawal request is accepted, you may submit another request.
+
+Thanks,
+Qoneqt Support Team
+
+
+
+
