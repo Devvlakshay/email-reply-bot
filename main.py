@@ -28,7 +28,7 @@ EMBEDDING_MODEL = "all-MiniLM-L6-v2"
 
 class QoneqtBot:
     def __init__(self):
-        logging.info("🧠 Loading Brain...")
+        logging.info("Loading Brain...")
         self.embeddings = HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL)
         self.vector_db = self._load_db()
 
@@ -61,6 +61,7 @@ class QoneqtBot:
            "Thanks,
            Qoneqt Support Team"
         5. Do NOT include a Subject line.
+        6.  Format the reply with clear paragraph breaks (use blank lines between paragraphs).
 
         ---
         USER EMAIL:
@@ -81,7 +82,7 @@ class QoneqtBot:
             return "Error generating reply."
 
 async def run():
-    logging.info("🤖 Qoneqt Bot Starting (OpenAI Mode)...")
+    logging.info("Qoneqt Bot Starting (OpenAI Mode)...")
     bot = QoneqtBot()
     
     # MCP Connection
@@ -113,17 +114,19 @@ async def run():
                 subject = lines[1].replace("SUBJECT: ", "").strip()
                 body = "\n".join(lines[2:]).replace("BODY: ", "")
 
-                logging.info(f"📩 From: {sender} | Sub: {subject}")
+                logging.info(f"From: {sender} | Sub: {subject}")
 
                 context = bot.get_context(body)
                 reply = bot.generate_reply(body, context)
 
-                logging.info("🚀 Sending Reply...")
+                logging.info("--- Generated Reply ---\n%s\n-----------------------", reply)
+                logging.info("Reply ready. Waiting 20 seconds before sending...")
+                time.sleep(20)
+                logging.info("Sending Reply...")
                 await session.call_tool("send_email_reply", arguments={
                     "to_email": sender, "subject": f"Re: {subject}", "body": reply
                 })
-                
-                logging.info("✅ Sent!")
+                logging.info("Sent!")
                 time.sleep(5)
 
 if __name__ == "__main__":

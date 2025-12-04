@@ -18,7 +18,8 @@ Qoneqt Support Team
 Dear User,
 
 Due to heavy app traffic and a high volume of verifications, we are facing slight delays from our end. We are a small startup, and we are doing our best to verify everyone as quickly as possible.
-Please stay with us—your account is being verified on high priority.
+
+Please stay with us your account is being verified on priority.
 
 Thanks,
 Qoneqt Support Team
@@ -48,7 +49,7 @@ Qoneqt Support Team
 
 *************************************************************************************************************************
 
-5. App Access Issue 
+5. App Not working
 
 Dear User,
 
@@ -63,7 +64,7 @@ Qoneqt Support Team
 
 Dear User,
 
-We are not submitting the PAN card for now. However, please note that if your withdrawal limit exceeds ₹20,000, you will be required to submit your PAN card as per government guidelines.
+We are not submitting the PAN card for now. However, please note that if your withdrawal limit exceeds Rs 20,000, you will be required to submit your PAN card as per government guidelines.
 
 Thanks,
 Qoneqt Support Team
@@ -75,8 +76,7 @@ Qoneqt Support Team
 Dear User,
 
 As per our withdrawal timeline, it will take 7 business days.
-Please refer to our withdrawal policy for more details:
-https://qoneqt.com/withdrawal-policy
+Please refer to our withdrawal policy for more details: https://qoneqt.com/withdrawal-policy
 
 Thanks,
 Qoneqt Support Team
@@ -99,21 +99,29 @@ Qoneqt Support Team
 
 Dear User,
 
-We would like to inform you that the minimum withdrawal amount is ₹100. Please ensure your withdrawal request meets this requirement.
+We would like to inform you that the minimum withdrawal amount is Rs 100. Please ensure your withdrawal request meets this requirement.
 
 Thanks,
 Qoneqt Support Team
 
 *************************************************************************************************************************
 
-10. Double Withdrawal Request Not Allowed
+11. Pan Card not verified 
 
 Dear User,
 
-Please note that only one withdrawal request can be processed at a time. Once your current withdrawal request is accepted, you may submit another request.
+We have discontinued the manual PAN card submission process for all users. You no longer need to submit your PAN card for verification.
+
+To withdraw money, please provide your bank details. The process will be handled automatically.
 
 Thanks,
 Qoneqt Support Team
+
+*************************************************************************************************************************
+
+12
+
+
 
 
 
